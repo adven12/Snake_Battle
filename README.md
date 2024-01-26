@@ -1,4 +1,4 @@
-[![en](https://img.shields.io/badge/Language-English-red.svg)](https://github.com/adven12/Snake_Battle/README.md)
+[![en](https://img.shields.io/badge/Language-English-red.svg)](https://github.com/adven12/Snake_Battle/blob/master/README.md)
 [![ua](https://img.shields.io/badge/Language-Ukrainian-green.svg)](https://github.com/adven12/Snake_Battle/blob/main/README.ua.md)
 
 # **Overview**<br />
