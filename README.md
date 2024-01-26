@@ -1,5 +1,5 @@
 [![en](https://img.shields.io/badge/Language-English-red.svg)](https://github.com/adven12/Snake_Battle/blob/master/README.md)
-[![ua](https://img.shields.io/badge/Language-Ukrainian-green.svg)](https://github.com/adven12/Snake_Battle/blob/main/README.ua.md)
+[![ua](https://img.shields.io/badge/Language-Ukrainian-green.svg)](https://github.com/adven12/Snake_Battle/blob/master/README.ua.md)
 
 # **Overview**<br />
 This is game for my portfolio. It's a classic Snake game with the opponent which also hunts for apples and trying to eat the player's snake, if his snake is big enough.
