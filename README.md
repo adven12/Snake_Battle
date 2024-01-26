@@ -22,4 +22,4 @@ Escape -> Go to the Menu<br />
 ## **How to play?**<br />
 When you start the game, you'll see the Menu. You need to collect 5 apples more and than to eat the Bot snake for win. The game has two ways to lose. The First way - you play until you hit your part (you can go through the walls). And be careful, if your snake is smaller than 5 apples, you can be eaten by the opponent!
 
-![image](https://github.com/adven12/Snake_Battle/assets/images/105989117/ff65de37-7666-4587-b6b3-a6aa15581637)
+![image](https://github.com/adven12/Snake_Battle/blob/master/Assets/images/img_2.png)
