@@ -1,5 +1,5 @@
-[![en](https://img.shields.io/badge/Language-English-red.svg)](https://github.com/adven12/Snake_Battle/blob/main/README.md)
-[![ua](https://img.shields.io/badge/Language-Ukrainian-green.svg)](https://github.com/adven12/Snake_Battle/README.ua.md)
+[![en](https://img.shields.io/badge/Language-English-red.svg)](https://github.com/adven12/Snake_Battle/blob/master/README.md)
+[![ua](https://img.shields.io/badge/Language-Ukrainian-green.svg)](https://github.com/adven12/Snake_Battle/blob/master/README.ua.md)
 
 # **Огляд**<br />
 Це гра для мого портфоліо. Це класична гра «Змійка» з суперником, який також полює на яблука та намагається з’їсти змію гравця, якщо його змія достатньо велика.
