@@ -4,7 +4,7 @@
 # **Overview**<br />
 This is game for my portfolio. It's a classic Snake game with the opponent which also hunts for apples and trying to eat the player's snake, if his snake is big enough.
 
-![image](https://github.com/adven12/Snake_Battle/Assets/images/img_1.png)
+![image](https://github.com/adven12/Snake_Battle/blob/master/Assets/images/img_1.png)
 
 ## **Game controls (in menu):**<br />
 Arrow up -> Move cursor to upper item<br />
