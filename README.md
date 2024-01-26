@@ -4,7 +4,7 @@
 # **Overview**<br />
 This is game for my portfolio. It's a classic Snake game with the opponent which also hunts for apples and trying to eat the player's snake, if his snake is big enough.
 
-![image](https://github.com/adven12/Snake_Battle/blob/master/Assets/images/img_1.png)
+![image](https://github.com/adven12/Snake_Battle/blob/master/Assets/images/img_2.png)
 
 ## **Game controls (in menu):**<br />
 Arrow up -> Move cursor to upper item<br />
@@ -22,4 +22,4 @@ Escape -> Go to the Menu<br />
 ## **How to play?**<br />
 When you start the game, you'll see the Menu. You need to collect 5 apples more and than to eat the Bot snake for win. The game has two ways to lose. The First way - you play until you hit your part (you can go through the walls). And be careful, if your snake is smaller than 5 apples, you can be eaten by the opponent!
 
-![image](https://github.com/adven12/Snake_Battle/blob/master/Assets/images/img_2.png)
+![image](https://github.com/adven12/Snake_Battle/blob/master/Assets/images/img_1.png)
