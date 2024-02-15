@@ -2,7 +2,7 @@
 [![ua](https://img.shields.io/badge/Language-Ukrainian-green.svg)](https://github.com/adven12/Snake_Battle/blob/master/README.ua.md)
 
 # **Overview**<br />
-This is game for my portfolio. It's a classic Snake game with the opponent which also hunts for apples and trying to eat the player's snake, if his snake is big enough.
+This is first game for my portfolio. It's a classic Snake game with the opponent which also hunts for apples and trying to eat the player's snake, if his snake is big enough.
 
 ![image](https://github.com/adven12/Snake_Battle/blob/master/Assets/images/img_2.png)
 
